@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+기술 스택
+C#
+Python
+HTML, CSS, JavaScript
+Git
+
 <!--
 **HancheolJeong/HancheolJeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
