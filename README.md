@@ -15,15 +15,13 @@ Here are some ideas to get you started:
 -->
 # 안녕하세요, 개발자 정한철입니다 👋
 
-## 🙋‍♂️ 소개
+## 🙋‍♂️ Introduce
 
 - 👨‍💻 저는 소프트웨어를 전공했습니다.
 - 🔭 저는 현재 쇼핑몰 프로젝트에 집중하고 있습니다.
 - 🤝 데이터분석, 정보보안에 관심이 많습니다.
 
-## 🛠 기술 스택
-
-여기에 사용하는 기술 스택을 아이콘과 함께 나열하세요. 예를 들어:
+## 🛠 Skills
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -41,8 +39,8 @@ Here are some ideas to get you started:
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 
-## 📫 연락처
+## 📫 Contact
 
-- GitHub: [@HancheolJeong](https://github.com/yourusername)
+- GitHub: [@HancheolJeong](https://github.com/HancheolJeong)
 - 이메일: juyz0730@gmail.com
 
