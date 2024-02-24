@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 안녕하세요, 개발자 정한철입니다 👋
-
 ## 🙋‍♂️ Introduce
 
 - 👨‍💻 저는 소프트웨어를 전공했습니다.
@@ -42,12 +40,3 @@ Here are some ideas to get you started:
 ## 📊 Statistics
 
 ![HancheolJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=HancheolJeong&show_icons=true&theme=radical)
-
-## ⚡ Language
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HancheolJeong&layout=compact&theme=radical)
-
-## 📫 Contact
-
-- 이메일: juyz0730@gmail.com
-
