@@ -39,8 +39,15 @@ Here are some ideas to get you started:
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 
+## 📊 Statistics
+
+![HancheolJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=HancheolJeong&show_icons=true&theme=radical)
+
+## ⚡ Language
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HancheolJeong&layout=compact&theme=radical)
+
 ## 📫 Contact
 
-- GitHub: [@HancheolJeong](https://github.com/HancheolJeong)
 - 이메일: juyz0730@gmail.com
 
