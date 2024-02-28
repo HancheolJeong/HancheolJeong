@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 ## 🙋‍♂️ Introduce
 
 - 👨‍💻 저는 소프트웨어를 전공했습니다.
-- 🔭 저는 현재 쇼핑몰 프로젝트에 집중하고 있습니다.
 - 🤝 정보보안에 관심이 많습니다.
 
 ## 🛠 Skills
